@@ -1,0 +1,91 @@
+[
+  {
+    "id": "hanuman_chalisa",
+    "title": "Hanuman Chalisa",
+    "deityId": "hanuman",
+    "hindiText": "श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि।\nबरनउँ रघुबर बिमल जसु, जो दायकु फल चारि॥\nजय हनुमान ज्ञान गुन सागर।\nजय कपीस तिहुँ लोक उजागर॥\nराम दूत अतुलित बल धामा।\nअंजनि-पुत्र पवनसुत नामा॥\nमहाबीर बिक्रम बजरंगी।\nकुमति निवार सुमति के संगी॥\nकंचन बरन बिराज सुबेसा।\nकानन कुंडल कुंचित केसा॥",
+    "transliteration": "Shri Guru Charan Saroj Raj, Nij manu mukuru sudhari...\nJai Hanuman gyan gun sagar, Jai Kapis tihun lok ujagar...",
+    "meaning": "A devotional praise of Hanuman ji that invokes strength, courage, bhakti and protection.",
+    "audioLabel": "Audio placeholder - devotional recitation coming soon.",
+    "videoLabel": "HD mantra video placeholder - coming soon.",
+    "isPlaceholder": false
+  },
+  {
+    "id": "shiv_aarti",
+    "title": "Shiv Aarti",
+    "deityId": "shiva",
+    "hindiText": "ॐ जय शिव ओंकारा, स्वामी जय शिव ओंकारा।\nब्रह्मा, विष्णु, सदाशिव, अर्द्धांगी धारा॥\nएकानन चतुरानन पंचानन राजे।\nहंसासन गरुड़ासन वृषवाहन साजे॥",
+    "transliteration": "Om Jai Shiv Omkara, Swami Jai Shiv Omkara...",
+    "meaning": "Aarti in praise of Lord Shiva, celebrating his cosmic and benevolent forms.",
+    "audioLabel": "Audio placeholder - temple aarti track coming soon.",
+    "videoLabel": "Temple-style aarti video placeholder.",
+    "isPlaceholder": false
+  },
+  {
+    "id": "ganesh_aarti",
+    "title": "Ganesh Aarti",
+    "deityId": "ganesh",
+    "hindiText": "जय गणेश, जय गणेश, जय गणेश देवा।\nमाता जाकी पार्वती, पिता महादेवा॥\nएक दंत दयावंत, चार भुजाधारी।\nमाथे सिंदूर सोहे, मूसे की सवारी॥",
+    "transliteration": "Jai Ganesh Jai Ganesh Jai Ganesh Deva...",
+    "meaning": "A much-loved aarti seeking wisdom, auspicious beginnings and removal of obstacles.",
+    "audioLabel": "Audio placeholder - sing-along version coming soon.",
+    "videoLabel": "Festival video placeholder - coming soon.",
+    "isPlaceholder": false
+  },
+  {
+    "id": "durga_chalisa",
+    "title": "Durga Chalisa",
+    "deityId": "durga",
+    "hindiText": "नमो नमो दुर्गे सुख करनी।\nनमो नमो अम्बे दुःख हरनी॥\nनिरंकार है ज्योति तुम्हारी।\nतिहुँ लोक फैली उजियारी॥",
+    "transliteration": "Namo Namo Durge sukh karni...",
+    "meaning": "A prayer invoking Maa Durga for strength, protection and the destruction of fear.",
+    "audioLabel": "Audio placeholder - Devi path style coming soon.",
+    "videoLabel": "Navratri video placeholder - coming soon.",
+    "isPlaceholder": false
+  },
+  {
+    "id": "gayatri_mantra",
+    "title": "Gayatri Mantra",
+    "deityId": "shiva",
+    "hindiText": "ॐ भूर्भुवः स्वः।\nतत्सवितुर्वरेण्यं।\nभर्गो देवस्य धीमहि।\nधियो यो नः प्रचोदयात्॥",
+    "transliteration": "Om Bhur Bhuvah Swaha, Tat Savitur Varenyam...",
+    "meaning": "A timeless Vedic mantra for illumination, clarity and righteous wisdom.",
+    "audioLabel": "Audio placeholder - 108 chant loop coming soon.",
+    "videoLabel": "Meditation video placeholder - coming soon.",
+    "isPlaceholder": false
+  },
+  {
+    "id": "lakshmi_aarti",
+    "title": "Lakshmi Aarti",
+    "deityId": "lakshmi",
+    "hindiText": "ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता।\nतुमको निसदिन सेवत, हर विष्णु विधाता॥",
+    "transliteration": "Om Jai Lakshmi Mata, Maiya Jai Lakshmi Mata...",
+    "meaning": "Aarti for prosperity, grace, well-being and a peaceful home.",
+    "audioLabel": "Audio placeholder - festive aarti coming soon.",
+    "videoLabel": "Diwali aarti video placeholder - coming soon.",
+    "isPlaceholder": false
+  },
+  {
+    "id": "ram_stuti",
+    "title": "Ram Stuti",
+    "deityId": "ram",
+    "hindiText": "श्री रामचन्द्र कृपालु भजु मन, हरण भवभय दारुणम्॥",
+    "transliteration": "Shri Ramchandra Kripalu Bhajuman...",
+    "meaning": "Placeholder devotional praise for Lord Ram.",
+    "audioLabel": "Audio placeholder - coming soon.",
+    "videoLabel": "Video placeholder - coming soon.",
+    "isPlaceholder": true
+  },
+  {
+    "id": "vishnu_sahasranamam",
+    "title": "Vishnu Sahasranamam",
+    "deityId": "krishna",
+    "hindiText": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्॥",
+    "transliteration": "Shuklambaradharam Vishnum...",
+    "meaning": "Placeholder entry for an expanded Vishnu Sahasranamam experience.",
+    "audioLabel": "Audio placeholder - premium collection coming soon.",
+    "videoLabel": "Video placeholder - coming soon.",
+    "isPlaceholder": true
+  }
+]
+

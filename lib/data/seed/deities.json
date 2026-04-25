@@ -1,0 +1,66 @@
+[
+  {
+    "id": "shiva",
+    "name": "Shiva",
+    "emoji": "🕉️",
+    "blessing": "Har Har Mahadev. May peace and strength guide your day.",
+    "primaryColor": "0xFFB9D6FF",
+    "secondaryColor": "0xFF305F8C",
+    "defaultMantra": "ॐ नमः शिवाय"
+  },
+  {
+    "id": "hanuman",
+    "name": "Hanuman",
+    "emoji": "🚩",
+    "blessing": "Bajrang Bali ki kripa se aapka din shubh ho.",
+    "primaryColor": "0xFFFFD580",
+    "secondaryColor": "0xFFD8572A",
+    "defaultMantra": "ॐ हं हनुमते नमः"
+  },
+  {
+    "id": "krishna",
+    "name": "Krishna",
+    "emoji": "🪈",
+    "blessing": "Radhe Krishna. May joy and compassion stay close today.",
+    "primaryColor": "0xFFB8D7FF",
+    "secondaryColor": "0xFF516AD9",
+    "defaultMantra": "ॐ नमो भगवते वासुदेवाय"
+  },
+  {
+    "id": "ganesh",
+    "name": "Ganesh",
+    "emoji": "🐘",
+    "blessing": "Ganpati Bappa Morya. May your path open with wisdom.",
+    "primaryColor": "0xFFFFD89C",
+    "secondaryColor": "0xFFE07022",
+    "defaultMantra": "ॐ गं गणपतये नमः"
+  },
+  {
+    "id": "durga",
+    "name": "Durga",
+    "emoji": "🌺",
+    "blessing": "Maa Durga ki shakti aapke saath bani rahe.",
+    "primaryColor": "0xFFFFC7C7",
+    "secondaryColor": "0xFFC12D2D",
+    "defaultMantra": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता"
+  },
+  {
+    "id": "lakshmi",
+    "name": "Lakshmi",
+    "emoji": "🪔",
+    "blessing": "Maa Lakshmi bless your home with peace and abundance.",
+    "primaryColor": "0xFFFFE0AA",
+    "secondaryColor": "0xFFCC7E1B",
+    "defaultMantra": "ॐ श्रीं महालक्ष्म्यै नमः"
+  },
+  {
+    "id": "ram",
+    "name": "Ram",
+    "emoji": "🏹",
+    "blessing": "Jai Shri Ram. May courage and maryada shape your day.",
+    "primaryColor": "0xFFFFD59E",
+    "secondaryColor": "0xFFB44B1C",
+    "defaultMantra": "श्री राम जय राम जय जय राम"
+  }
+]
+

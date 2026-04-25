@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ratha_yatra",
+    "title": "Ratha Yatra",
+    "date": "2026-07-16",
+    "description": "Celebrate Lord Jagannath’s grand chariot festival with bhajans, seva and simple home offerings.",
+    "checklist": ["Clean prayer space", "Offer flowers", "Light diya", "Chant one mala", "Share blessings with family"],
+    "recommendedPrayerId": "gayatri_mantra"
+  },
+  {
+    "id": "guru_purnima",
+    "title": "Guru Purnima",
+    "date": "2026-07-29",
+    "description": "A sacred day to express gratitude toward gurus, teachers and guides who illuminate dharma.",
+    "checklist": ["Remember your guru or teachers", "Offer fruits", "Read one shloka", "Perform evening aarti"],
+    "recommendedPrayerId": "shiv_aarti"
+  },
+  {
+    "id": "raksha_bandhan",
+    "title": "Raksha Bandhan",
+    "date": "2026-08-28",
+    "description": "A family festival celebrating protection, affection and sacred bonds.",
+    "checklist": ["Prepare rakhi thali", "Offer sweets", "Do tilak", "Share family blessing card"],
+    "recommendedPrayerId": "ganesh_aarti"
+  },
+  {
+    "id": "krishna_janmashtami",
+    "title": "Krishna Janmashtami",
+    "date": "2026-09-04",
+    "description": "Mark the birth of Lord Krishna with bhajans, fasting, midnight prayer and joyful devotion.",
+    "checklist": ["Decorate mandir", "Offer makhan-mishri", "Chant Krishna mantra", "Midnight aarti"],
+    "recommendedPrayerId": "gayatri_mantra"
+  },
+  {
+    "id": "ganesh_chaturthi",
+    "title": "Ganesh Chaturthi",
+    "date": "2026-09-14",
+    "description": "Welcome Lord Ganesh home with devotion, aarti and prayers for auspicious beginnings.",
+    "checklist": ["Set up Ganesh sthapana area", "Offer durva and modak", "Perform aarti", "Share festive wishes"],
+    "recommendedPrayerId": "ganesh_aarti"
+  },
+  {
+    "id": "navratri_begins",
+    "title": "Navratri Begins",
+    "date": "2026-10-11",
+    "description": "Nine nights of devotion to Maa Durga, focusing on inner shakti, fasting and bhakti.",
+    "checklist": ["Prepare kalash", "Offer red flowers", "Read one chapter", "Light evening diya"],
+    "recommendedPrayerId": "durga_chalisa"
+  },
+  {
+    "id": "dussehra",
+    "title": "Dussehra",
+    "date": "2026-10-20",
+    "description": "Celebrate the victory of dharma over adharma and renew your resolve for righteous action.",
+    "checklist": ["Offer prayer to Ram", "Read a short stuti", "Visit mandir", "Share victory blessing"],
+    "recommendedPrayerId": "ram_stuti"
+  },
+  {
+    "id": "dhanteras",
+    "title": "Dhanteras",
+    "date": "2026-11-06",
+    "description": "Auspicious day for Lakshmi puja, gratitude and preparing the home for Deepavali.",
+    "checklist": ["Clean entrance", "Light lamps", "Offer lotus or coins", "Lakshmi aarti"],
+    "recommendedPrayerId": "lakshmi_aarti"
+  },
+  {
+    "id": "diwali",
+    "title": "Diwali",
+    "date": "2026-11-08",
+    "description": "Festival of lights celebrating hope, homecoming, prosperity and spiritual renewal.",
+    "checklist": ["Decorate diyas", "Lakshmi Ganesh puja", "Share festive card", "Evening family aarti"],
+    "recommendedPrayerId": "lakshmi_aarti"
+  },
+  {
+    "id": "chhath_puja",
+    "title": "Chhath Puja",
+    "date": "2026-11-15",
+    "description": "A deeply revered festival dedicated to Surya Dev and Chhathi Maiya with gratitude and discipline.",
+    "checklist": ["Prepare prasad", "Keep ritual area clean", "Offer arghya", "Share blessings respectfully"],
+    "recommendedPrayerId": "gayatri_mantra"
+  }
+]
+
