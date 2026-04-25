@@ -1,5 +1,6 @@
 .dart_tool/
 .idea/
+*.iml
 .packages
 .flutter-plugins
 .flutter-plugins-dependencies
@@ -10,6 +11,8 @@ build/
 coverage/
 android/.gradle/
 android/local.properties
+android/key.properties
+android/app/*.jks
+android/app/*.keystore
 ios/Flutter/Flutter.framework
 ios/Flutter/Flutter.podspec
-

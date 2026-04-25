@@ -22,6 +22,16 @@ flutter run
 
 5. Recommended first target: Android emulator or physical Android device.
 
+## Release Publishing
+
+See the full Google Play release checklist in [docs/google-play-release-checklist.md](/Users/ajitesh/Documents/New%20project%202/docs/google-play-release-checklist.md).
+
+For Android signing setup:
+
+1. Copy `android/key.properties.example` to `android/key.properties`
+2. Create your upload keystore in `android/app/`
+3. Fill in the real passwords and alias locally
+
 ## Firebase Setup Placeholders
 
 - Add `google-services.json` to `android/app/` when Firebase is ready.
